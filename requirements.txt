@@ -1,4 +1,12 @@
+streamlit
+langchain
+langchain-community
+langchain-ollama
+langchain-openai
+langgraph
+openai
+faiss-cpu
+python-dotenv
+pydantic
 fastapi
 uvicorn
-pydantic
-python-dotenv
