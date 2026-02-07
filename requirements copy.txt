@@ -1,0 +1,16 @@
+streamlit
+langchain
+langchain-community
+langchain-ollama
+langchain-openai
+langgraph
+openai
+faiss-cpu
+llm-guard
+python-dotenv
+
+fastapi
+uvicorn
+langchain
+pydantic
+python-dotenv
