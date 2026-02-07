@@ -1,0 +1,34 @@
+{
+    "apis": [
+        {
+            "name": "SendGrid_Email",
+            "description": "Sends welcome emails and notifications.",
+            "status": "active",
+            "endpoint": "https://api.sendgrid.mock/v3/mail/send"
+        },
+        {
+            "name": "LMS_Training_Assign",
+            "description": "Assigns mandatory training modules to employees.",
+            "status": "active",
+            "endpoint": "https://lms.corporate.mock/api/assign"
+        },
+        {
+            "name": "Corporate_Travel_API",
+            "description": "Books flights and hotels for relocation.",
+            "status": "maintenance",
+            "endpoint": "https://travel.corporate.mock/api/book"
+        },
+        {
+            "name": "HR_Core_System",
+            "description": "Core HR system for employee details.",
+            "status": "active",
+            "endpoint": "https://hr.core.mock/api/employee"
+        },
+        {
+            "name": "Healthcare_Insurance_API",
+            "description": "Enrolls employees in health insurance programs.",
+            "status": "active",
+            "endpoint": "https://insurance.corporate.mock/api/enroll"
+        }
+    ]
+}

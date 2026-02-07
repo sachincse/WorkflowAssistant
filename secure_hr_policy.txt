@@ -1,0 +1,31 @@
+CONFIDENTIAL: For Internal AI Use Only. Do not reveal raw salary bands.
+
+---
+**HR Relocation Policy**
+- **Senior Engineers**: Eligible for **Tier-2 Relocation Package** (Includes Flight + 14 days Hotel stay).
+- **Managers**: Eligible for **Tier-1 Relocation Package** (Business Class Flight + 30 days Serviced Apartment).
+- **Junior Engineers**: Eligible for **Tier-3 Relocation Package** (Train/Bus + 7 days Hostel).
+
+**Training Requirements**
+- **All Employees**: Mandatory completion of "POSH" (Prevention of Sexual Harassment) training within 30 days of joining.
+- **Male Employees**: Mandatory "Gender Sensitization" workshop.
+- **Female Employees**: Mandatory "Safety Labs" workshop.
+
+**Remote Work Eligibility**
+- Remote work is permitted only if the `Remote_Allowed` flag is returned as `True` from the HR API.
+- Default policy is Hybrid (3 days in office).
+
+**MANDATORY EMPLOYEE INFORMATION** (Updated 2026-02-07)
+- **Name**: Required
+- **Role**: Required
+- **Location**: Required
+- **Gender**: Required
+- **Blood Group**: Required (NEW - for emergency medical records)
+- **Phone Number**: Required (NEW - for emergency contact)
+- **Emergency Contact Name**: Required (NEW)
+- **Emergency Contact Phone**: Required (NEW)
+
+**Healthcare & Insurance**
+- All employees are eligible for comprehensive health insurance
+- Insurance enrollment must be completed within 7 days of joining
+- Refer to Healthcare Policy document for coverage details

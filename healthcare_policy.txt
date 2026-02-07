@@ -1,0 +1,52 @@
+CONFIDENTIAL: Healthcare Benefits Policy - Effective 2026
+
+---
+**COMPREHENSIVE HEALTH INSURANCE COVERAGE**
+
+**Eligibility**
+- All full-time employees are eligible from Day 1
+- Coverage extends to spouse and up to 2 dependent children
+- Pre-existing conditions covered after 6 months
+
+**Coverage Details**
+- **Hospitalization**: Up to $100,000 per year
+- **Out-Patient**: Up to $5,000 per year
+- **Dental**: Up to $2,000 per year
+- **Vision**: Up to $500 per year
+- **Mental Health**: Up to $3,000 per year (10 sessions)
+- **Maternity**: Full coverage up to $15,000
+
+**Network Providers**
+- Primary: HealthCare Plus Network (500+ hospitals)
+- Secondary: Global Medical Alliance (international coverage)
+- Emergency: All hospitals accepted (reimbursement within 30 days)
+
+**Enrollment Process**
+1. Submit health insurance enrollment form within 7 days
+2. Provide blood group and emergency contact information
+3. Nominate beneficiaries
+4. Upload dependent documents (if applicable)
+5. Receive insurance card within 14 days
+
+**Required Documents for Enrollment**
+- Employee ID proof
+- Blood group certificate
+- Emergency contact details
+- Dependent birth certificates (if applicable)
+- Marriage certificate (for spouse coverage)
+
+**Claims Process**
+- Cashless: Use insurance card at network hospitals
+- Reimbursement: Submit claims within 30 days with original bills
+- Processing time: 7-14 business days
+
+**Wellness Programs**
+- Annual health checkup (free)
+- Gym membership subsidy: $50/month
+- Mental health counseling: Free
+- Vaccination programs: Free (flu, COVID, etc.)
+
+**MANDATORY ACTIONS**
+- Insurance enrollment must be triggered automatically during onboarding
+- Blood group and emergency contact must be collected
+- Healthcare provider selection must be completed within 7 days
