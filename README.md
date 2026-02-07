@@ -29,22 +29,22 @@ WorkflowAssistant solves this by combining:
 
 ```mermaid
 flowchart TB
-  U[HR / Ops User\nNatural language onboarding request]
+  U[HR / Ops User<br/>Natural language onboarding request]
 
-  UI[Streamlit UI\napp.py]
-  ORCH[Workflow Engine\nworkflow_engine_full.py\n(LangGraph)]
+  UI[Streamlit UI<br/>app.py]
+  ORCH[Workflow Engine<br/>workflow_engine_full.py<br/>LangGraph]
 
-  GUARD[Security Guard\nsecurity.py\nPII redaction / output validation]
-  ASSIST[Conversation Agent\nCollect missing fields\nHuman-in-the-loop]
-  POLICY[Policy Manager\npolicy_manager.py\nLoad + interpret policies]
-  DOCS[(Policy Documents\nsecure_hr_policy.txt\nhealthcare_policy.txt)]
+  GUARD[Security Guard<br/>security.py<br/>PII redaction & output validation]
+  ASSIST[Conversation Agent<br/>Collect missing fields<br/>Human-in-the-loop]
+  POLICY[Policy Manager<br/>policy_manager.py<br/>Load & interpret policies]
+  DOCS[(Policy Documents<br/>secure_hr_policy.txt<br/>healthcare_policy.txt)]
 
-  APIS[(API Registry\napi_registry.json)]
-  PLAN[Planner / Extractor Agent\nDerive structured needs + actions]
-  EXEC[Executor Agent\nMap actions -> APIs\nRun or fallback]
+  APIS[(API Registry<br/>api_registry.json)]
+  PLAN[Planner / Extractor Agent<br/>Derive structured needs & actions]
+  EXEC[Executor Agent<br/>Map actions to APIs<br/>Run or fallback]
 
-  EXT[External Systems\nHR / LMS / Travel / Insurance / Email]
-  AUDIT[Plan + Logs\nExplainability]
+  EXT[External Systems<br/>HR / LMS / Travel / Insurance / Email]
+  AUDIT[Plan & Logs<br/>Explainability]
 
   U --> UI --> ORCH
   ORCH --> GUARD --> ASSIST
